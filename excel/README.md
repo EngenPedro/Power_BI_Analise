@@ -16,13 +16,13 @@ Este projeto envolve a limpeza, organização e análise de dados de vendas cont
   ![03Z9KjfkEFT-mtGExDuIpXEg_0361e0f280c0466d906c4d1a0cde11e1_image](https://github.com/user-attachments/assets/2431b338-ffda-41f1-bf2f-cbd8dd48d905)
 
 
-
-
-
+  
 ### 2. Limpeza e Padronização dos Dados
 
 - **Formatação de texto:** Padronização dos nomes dos produtos para iniciar com letra maiúscula. utilizando a formula = PROPER(G2)
 - ![05n0QCBuDIQ4mVs6aAmtfO9g_01cecf3e8b5349e8aaf3f735fdb01fe1_image](https://github.com/user-attachments/assets/390b2678-7b10-41f6-9113-fe748c82f3c8)
+
+
 
 - **Remoção de colunas desnecessárias:** Exclusão de colunas que não contribuíam para a análise.
 ![06HZ3YHGBnRPWzuN137gwUUw_15e6012bf6c14c9db4a04d3bc72edde1_image](https://github.com/user-attachments/assets/959cabce-7b6d-4956-a948-ccbde71ece67)
@@ -36,6 +36,7 @@ Este projeto envolve a limpeza, organização e análise de dados de vendas cont
 ![07SLaivhRoQbOJfpmylihuUg_7d72e19126d44e4c9c041de0908940e1_image](https://github.com/user-attachments/assets/b8afca88-8919-4c43-bdf1-ee69355d9415)
 
 
+
 ### 4. Criação de Novas Informações
 
 - **Extração de mês e ano:** Utilização das funções `MONTH` e `YEAR` para extrair o mês e o ano de cada venda, facilitando a análise por período.
@@ -43,7 +44,9 @@ Este projeto envolve a limpeza, organização e análise de dados de vendas cont
 
 - **Cálculo de valores:** Criação de fórmulas para calcular o valor total de cada venda, o valor total de impostos e outros indicadores relevantes.
 -
-- ![09LZ8GeZ2XQn2hCL5y7EvXeg_d9eeeecd7ad542829046cc3fb21728e1_image](https://github.com/user-attachments/assets/0f09df51-fc8a-43ff-b026-8063090ffc68)
+  ![09LZ8GeZ2XQn2hCL5y7EvXeg_d9eeeecd7ad542829046cc3fb21728e1_image](https://github.com/user-attachments/assets/0f09df51-fc8a-43ff-b026-8063090ffc68)
+
+
 
 ### 5. Análise e Comparação
 
@@ -51,6 +54,7 @@ Este projeto envolve a limpeza, organização e análise de dados de vendas cont
 - **Cálculo de percentuais:** Cálculo da variação percentual das vendas entre os dois anos, tanto no total quanto por mês.
 
 - ![Uploading 10HHwwHAK5THqk4FfFfHm_6Q_19b628dd28d040e498d85a3716eb0ee1_image.png…]()
+
 
 
 ## Funcionalidades Adicionadas à Planilha
