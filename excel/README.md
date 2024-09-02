@@ -50,6 +50,9 @@ Este projeto envolve a limpeza, organização e análise de dados de vendas cont
 - **Cálculo de totais:** Utilização da função `SUMIF` para calcular o total de vendas por mês e por ano.
 - **Cálculo de percentuais:** Cálculo da variação percentual das vendas entre os dois anos, tanto no total quanto por mês.
 
+- ![Uploading 10HHwwHAK5THqk4FfFfHm_6Q_19b628dd28d040e498d85a3716eb0ee1_image.png…]()
+
+
 ## Funcionalidades Adicionadas à Planilha
 
 - **Formatação:** Melhoria visual da planilha, facilitando a leitura e compreensão dos dados.
