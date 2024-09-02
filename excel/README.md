@@ -22,8 +22,10 @@ Este projeto envolve a limpeza, organização e análise de dados de vendas cont
 ### 2. Limpeza e Padronização dos Dados
 
 - **Formatação de texto:** Padronização dos nomes dos produtos para iniciar com letra maiúscula. utilizando a formula = PROPER(G2)
+- ![05n0QCBuDIQ4mVs6aAmtfO9g_01cecf3e8b5349e8aaf3f735fdb01fe1_image](https://github.com/user-attachments/assets/390b2678-7b10-41f6-9113-fe748c82f3c8)
+
 - **Remoção de colunas desnecessárias:** Exclusão de colunas que não contribuíam para a análise.
-![05n0QCBuDIQ4mVs6aAmtfO9g_01cecf3e8b5349e8aaf3f735fdb01fe1_image](https://github.com/user-attachments/assets/390b2678-7b10-41f6-9113-fe748c82f3c8)
+![06HZ3YHGBnRPWzuN137gwUUw_15e6012bf6c14c9db4a04d3bc72edde1_image](https://github.com/user-attachments/assets/959cabce-7b6d-4956-a948-ccbde71ece67)
 
 ### 3. Organização dos Dados
 
