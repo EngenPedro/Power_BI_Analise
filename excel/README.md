@@ -12,6 +12,8 @@ Este projeto envolve a limpeza, organização e análise de dados de vendas cont
 - **Organização das colunas:** Ajuste da coluna A para acomodar os nomes dos meses e inserção de uma nova coluna para identificar os produtos.
 - **Formatação de cabeçalhos:** Formatação dos títulos das seções para destacar a importância e facilitar a leitura.
 
+![01jYgGSbRAavO_ESKwJrAg_37025164c2324bcd99d0bbd8d356eee1_image](https://github.com/user-attachments/assets/a458281e-71a2-458f-81a0-48e424eec6dc)
+
 ### 2. Limpeza e Padronização dos Dados
 
 - **Formatação de texto:** Padronização dos nomes dos produtos para iniciar com letra maiúscula.
