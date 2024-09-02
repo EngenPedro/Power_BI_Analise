@@ -33,10 +33,17 @@ Este projeto envolve a limpeza, organização e análise de dados de vendas cont
 - **Ocultar colunas:** Ocultação de colunas irrelevantes para a análise, melhorando a visualização.
 - **Congelar painéis:** Congelamento das primeiras linhas e colunas para manter os cabeçalhos visíveis durante a rolagem.
 
+![07SLaivhRoQbOJfpmylihuUg_7d72e19126d44e4c9c041de0908940e1_image](https://github.com/user-attachments/assets/b8afca88-8919-4c43-bdf1-ee69355d9415)
+
+
 ### 4. Criação de Novas Informações
 
 - **Extração de mês e ano:** Utilização das funções `MONTH` e `YEAR` para extrair o mês e o ano de cada venda, facilitando a análise por período.
+- ![07SLaivhRoQbOJfpmylihuUg_7d72e19126d44e4c9c041de0908940e1_image](https://github.com/user-attachments/assets/343893ac-3585-444e-b67b-555f8bff669f)
+
 - **Cálculo de valores:** Criação de fórmulas para calcular o valor total de cada venda, o valor total de impostos e outros indicadores relevantes.
+-
+- ![09LZ8GeZ2XQn2hCL5y7EvXeg_d9eeeecd7ad542829046cc3fb21728e1_image](https://github.com/user-attachments/assets/0f09df51-fc8a-43ff-b026-8063090ffc68)
 
 ### 5. Análise e Comparação
 
