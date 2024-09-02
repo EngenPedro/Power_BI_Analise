@@ -10,9 +10,10 @@ Este projeto envolve a limpeza, organização e análise de dados de vendas cont
 
 - **Importação dos dados:** Importação de uma planilha do Excel com dados de vendas de dois anos.
 - **Organização das colunas:** Ajuste da coluna A para acomodar os nomes dos meses e inserção de uma nova coluna para identificar os produtos
-  ![01jYgGSbRAavO_ESKwJrAg_37025164c2324bcd99d0bbd8d356eee1_image](https://github.com/user-attachments/assets/f2dc6250-5dd3-4796-aacd-70ae109a8f7c)
+ ![001SOXslFARRKa16nIOrIc_zg_8a342cecab754a1d95b9010f058b08e1_image](https://github.com/user-attachments/assets/792e1c97-1687-4651-aa06-1bef22dc3773)
+
 - **Formatação de cabeçalhos:** Formatação dos títulos das seções para destacar a importância e facilitar a leitura.
-  ![001SOXslFARRKa16nIOrIc_zg_8a342cecab754a1d95b9010f058b08e1_image](https://github.com/user-attachments/assets/792e1c97-1687-4651-aa06-1bef22dc3773)
+  ![03Z9KjfkEFT-mtGExDuIpXEg_0361e0f280c0466d906c4d1a0cde11e1_image](https://github.com/user-attachments/assets/2431b338-ffda-41f1-bf2f-cbd8dd48d905)
 
 
 
