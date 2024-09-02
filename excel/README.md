@@ -66,8 +66,3 @@ Este projeto envolve a limpeza, organização e análise de dados de vendas cont
 ## Conclusão
 
 Este projeto transformou uma planilha de dados brutos em uma ferramenta de análise poderosa, permitindo ao usuário obter insights valiosos sobre o desempenho das vendas ao longo do tempo.
-
----
-
-Se precisar de mais alguma coisa, estou à disposição!
-
